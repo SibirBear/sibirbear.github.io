@@ -1,1 +1,1 @@
-[This page](https://sibirbear.github.io/)
+[This page](https://sibirbear.github.io)
